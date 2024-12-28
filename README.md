@@ -1,9 +1,11 @@
 NAME:VUYYURU CHANDRA HASYATHA
 COMPANY:CODTECH IT SOLUTIONS
-ID:
-DURATION:
-DOMAIN:
+ID:CT08DIF
+DURATION:DEC 12TH,2024 TO JAN 12TH,2025
+DOMAIN:FRONTEND WEB DEVELOPMENT
 Overview of the Portfolio Website Project:
+![Screenshot 2024-12-28 182151](https://github.com/user-attachments/assets/46647eae-be98-4bab-afcd-f608cc512dca)
+
 This project involves creating a personal portfolio website to showcase your projects, skills, and experience. The website serves as an online representation of you or your work, allowing potential clients or employers to learn more about your background, expertise, and projects. It also provides a convenient way for visitors to contact you.
 
 This website is built using the following technologies:
